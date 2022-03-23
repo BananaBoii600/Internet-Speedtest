@@ -1,3 +1,4 @@
 # Python-Internet-Speedtest
 A console based internet speedtest app made in python. 
-please read the read-me before continuing
+
+before using the app, make sure you install "speedtest-cli" in the cmd/terminal using "pip install speedtest-cli"

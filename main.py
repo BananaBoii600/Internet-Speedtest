@@ -1,5 +1,4 @@
 from distutils.command.upload import upload
-import string
 import sys
 import speedtest
 
@@ -22,5 +21,3 @@ print(f"Upload speed: {upload_result /1024 / 1024:.2f} Mbps")
 print(f"Ping: {ping_result:.2f} ms")
 
 input("Enter any key to quit")
-
-sys.ex

@@ -8,4 +8,4 @@ before using the app, make sure you install speedtest-cli in the cmd/terminal us
 
 The code can ONLY be used for personal use and educational purposes.
 
-Thank you for downloading :)
+# Thank you for downloading :)

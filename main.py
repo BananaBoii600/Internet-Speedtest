@@ -1,5 +1,4 @@
 from distutils.command.upload import upload
-import sys
 import speedtest
 
 test = speedtest.Speedtest()

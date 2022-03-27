@@ -6,6 +6,4 @@ This app requires python to be installed in your computer. Python can be install
 # Setup
 before using the app, make sure you install speedtest-cli and tkinter in the cmd/terminal using `pip install speedtest-cli` and `pip install tk`
 
-The code can ONLY be used for personal use and educational purposes.
-
 # Thank you for downloading :)

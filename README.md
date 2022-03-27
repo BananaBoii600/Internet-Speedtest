@@ -1,4 +1,5 @@
 # Python-Internet-Speedtest
+[![Python]]
 A console based internet speedtest app made in python. 
 
 This app requires python to be installed in your computer. Python can be installed [here](https://www.python.org/downloads)
